@@ -29,8 +29,6 @@ I’m a Front End Web developer who is passionate about making error-free websit
 [![trophy](https://github-profile-trophy.vercel.app/?username=mdjewel999)](https://github.com/ryo-ma/github-profile-trophy)
 
 # 💻 Tech Stack:
-# Project Name
-
 [![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat-square&logo=c&logoColor=white)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat-square&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
@@ -49,7 +47,7 @@ I’m a Front End Web developer who is passionate about making error-free websit
 [![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=flat-square&logo=express&logoColor=%2361DAFB)](https://expressjs.com/)
 [![NPM](https://img.shields.io/badge/NPM-%23000000.svg?style=flat-square&logo=npm&logoColor=white)](https://www.npmjs.com/)
 [![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=material-ui&logoColor=white)](https://mui.com/)
-[![Bootstrap](https://getbootstrap.com/docs/5.3/getting-started/introduction/)](https://getbootstrap.com/)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
 [![Socket.io](https://img.shields.io/badge/Socket.io-black?style=flat-square&logo=socket.io&badgeColor=010101)](https://socket.io/)
 [![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white)](https://tailwindcss.com/)
 [![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat-square&logo=mongodb&logoColor=white)](https://www.mongodb.com/)
