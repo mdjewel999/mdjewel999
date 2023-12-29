@@ -1,7 +1,7 @@
 ![I am Web Developer](https://media.licdn.com/dms/image/D5616AQFf2XXws3mD2w/profile-displaybackgroundimage-shrink_350_1400/0/1692725878346?e=1709164800&v=beta&t=Mm-LFG0xt4KQZMKL0jioWQIR9HM3T1nQEYqeUN2-99s)
 
 # Hi there 👋, My name is Md Jewel
-## I am Web Developer
+## I am MERN Stack web developer
 
 # 🚀 About Me
 I’m a Front End Web developer who is passionate about making error-free websites with 100% client satisfaction. I have a passion for learning and sharing my knowledge with others as publicly as possible. I love to solve real-world problems. I am strategic, goal-oriented, and always work with an end goal in mind. I pride myself on doing quality work and maintaining excellent communication. Most of the time I work with  ReactJS, JavaScript.
@@ -17,7 +17,11 @@ I’m a Front End Web developer who is passionate about making error-free websit
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mdjewel999)](https://github.com/anuraghazra/github-readme-stats)
 
-## - 🔭 I’m currently working on upwork 
+
+    ## 🔭 I’m currently working on personal project
+    ## 🌱 I’m currently learning Python
+    ## 💬 Ask me about Web Development
+
 
 ## ☕ Connect with me!
 
