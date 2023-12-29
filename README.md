@@ -24,19 +24,6 @@ I’m a Front End Web developer who is passionate about making error-free websit
 [<img src='https://camo.githubusercontent.com/2d1ffa69dd491ebeca01b2098cf8233dd09950ff5895abccd5b455ca442abc59/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f46616365626f6f6b2d3138373746323f7374796c653d666f722d7468652d6261646765266c6f676f3d66616365626f6f6b266c6f676f436f6c6f723d7768697465' alt='facebook' height='40'>](https://www.facebook.com/mdjewel)
  [<img src='https://camo.githubusercontent.com/5d03c86f6a75f7cbe80d135d9162fbf6dc46a31253cf30a8e9bb8279b4d574d3/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f547769747465722d3144413146323f7374796c653d666f722d7468652d6261646765266c6f676f3d74776974746572266c6f676f436f6c6f723d7768697465' alt='twitter' height='40'>](https://twitter.com/https://twitter.com/mdjewelrahaman1)  [<img src='https://camo.githubusercontent.com/bd2bd127c104ba5c98bb12c70801b075aee1f040009089510f69554300e7ff41/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4769742d4630353033323f7374796c653d666f722d7468652d6261646765266c6f676f3d676974266c6f676f436f6c6f723d7768697465' alt='github' height='40'>](https://github.com/mdjewel999)  [<img src='https://camo.githubusercontent.com/a80d00f23720d0bc9f55481cfcd77ab79e141606829cf16ec43f8cacc7741e46/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4c696e6b6564496e2d3030373742353f7374796c653d666f722d7468652d6261646765266c6f676f3d6c696e6b6564696e266c6f676f436f6c6f723d7768697465' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/md-jewel-954986250//)
 
-# Social Media Links
-
-[![Behance](https://img.shields.io/badge/Behance-1769ff?logo=behance&logoColor=white)](https://behance.net/https://www.facebook.com/nirob.753/)
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/nirob.753/)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/nirob.753/?hl=en)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/gias-uddin-4167181b5/)
-[![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/https://pin.it/da6ombc)
-[![Stack Overflow](https://img.shields.io/badge/-Stackoverflow-FE7A16?logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/https://stackoverflow.com/users/19423230/gias-uddin)
-[![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/https://twitter.com/GiasUdd83043416)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/https://twitter.com/GiasUdd83043416)
-
-<!-- Additional Sections -->
-
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=mdjewel999)](https://github.com/ryo-ma/github-profile-trophy)
 
